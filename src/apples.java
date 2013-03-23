@@ -10,7 +10,7 @@ public class apples{
 	     fnum = juju.nextDouble();
 	     System.out.println("Enter second number");
 	     snum = juju.nextDouble();
-	     answer = fnum + snum;
+	     answer = fnum / snum;
 	     System.out.println(answer);
        }
 }
